@@ -44,3 +44,8 @@ pybind11Targets.cmake
 /docs/_build/*
 .ipynb_checkpoints/
 tests/main.cpp
+
+# HH
+_rez_build
+.vscode
+.idea
