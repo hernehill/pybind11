@@ -1,6 +1,6 @@
 name = "pybind11"
 
-version = "0.1.0"
+version = "2.13.1.hh.1.0.0"
 
 authors = [
     "PyBind",
